@@ -3,7 +3,7 @@ Este repositório contém os exercicios realizados por _[Anna Beatriz Garcia Tra
 # Exercícios de Lógica de Programação: Rumo ao Gold Badge (HackerRank - Problem Solving) ⭐
 
 Exercícios destinados a aprimorar conceitos de Algoritimos, Lógica de Progamação e JavaScript. 
-Como base tive como inspiração a série do canal Tecnologia em Video (Gustavo Caetano) e os exrcícios do HackerRank.
+Como base tive como inspiração a série do canal Tecnologia em Video (Gustavo Caetano) e os exercícios do HackerRank.
 
 
 ## Habilidades Desenvolvidas
