@@ -1,5 +1,4 @@
 function countApplesAndOranges(s, t, a, b, apples, oranges) {
-  // Write your code here
   let numberOfApples = 0;
   let numberOfOranges = 0;
   let arrayAples = [];
@@ -9,7 +8,6 @@ function countApplesAndOranges(s, t, a, b, apples, oranges) {
       myArrayRange.push(index);
   }
   apples.forEach((e1) => {
-    sumDistance = a + e1;
     arrayAples.push(a + e1);
   })
   oranges.forEach((e1) => {
