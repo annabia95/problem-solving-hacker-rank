@@ -1,6 +1,6 @@
 Este repositório contém os exercicios realizados por _[Anna Beatriz Garcia Trajano de Sá](www.linkedin.com/in/anna-beatriz-trajano-de-sá)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
-# Exercícios de Lógica de Programação: Rumo ao Gold Badge (HackerRank - Problem Solving) ⭐
+# Exercícios de Lógica de Programação: Rumo a Gold Badge (HackerRank - Problem Solving) ⭐
 
 Exercícios destinados a aprimorar conceitos de Algoritimos, Lógica de Progamação e JavaScript. 
 Como base tive como inspiração a série do canal Tecnologia em Video (Gustavo Caetano) e os exercícios do HackerRank.
