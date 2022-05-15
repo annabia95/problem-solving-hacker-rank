@@ -7,9 +7,9 @@ Como base tive como inspiração a série do canal Tecnologia em Video (Gustavo 
 
 ## Certificados
 
-Search Page             |         
+Certificate             |         
 :-------------------------:|
-![Screeshot](img/certificate.png)  |
+![Screeshot](certificate.png)  |
 
 
 
